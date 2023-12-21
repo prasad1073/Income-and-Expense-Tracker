@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 deta==1.2.0
 streamlit==1.25.0
 streamlit_option_menu==0.3.6
-=======
-deta==1.2.0
-streamlit==1.25.0
-streamlit_option_menu==0.3.6
->>>>>>> c8f9fdb857b4900e6c65b50c62849589c49789b1
 plotly==5.18.0
